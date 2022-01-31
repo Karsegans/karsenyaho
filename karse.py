@@ -1,4 +1,4 @@
-puclic class xmm1{
+public class xmm1{
 public static Void main(String[]argas){
 System.out.print("selamat siang kelas...");
 System.out.print("nama:Taufiqurachman...");
